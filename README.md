@@ -4,3 +4,4 @@ This is a machine_learning_project, including:
 2.face recognition
 3.transfer_learning
 4.keras_exercise
+5.data_analysis in python(quantitative_financial_analysis)
